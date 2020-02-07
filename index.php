@@ -1,3 +1,3 @@
 <?php
 
-echo "Git Pod is awesome"
+echo "Git Pod is awesome";
